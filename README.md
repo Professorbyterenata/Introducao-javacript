@@ -1,2 +1,3 @@
 # Introducao-javacript
-equipe renata
+Professora: Renata
+Equipe: 
